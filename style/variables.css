@@ -1,0 +1,18 @@
+:root {
+    --body-bg-color: rgb(255, 255, 255);
+    --orig-brown: #71c9ff;
+    --menu-bar: #00446e;
+    --logo-width: 40vw;
+    --top-pic-height: 90vw;
+
+    --header-height: .9vw;
+    --header-border: .155vw;
+    --header-text-size: .83vw;
+    --header-spacing: 1.5vw;
+
+    --image-text-size: 3vw;
+
+    --kitchenisland-width: 20vw;
+
+    --footerlogo-width: 35vw;
+}
