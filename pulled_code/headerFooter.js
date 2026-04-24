@@ -3,7 +3,7 @@ const header = document.querySelector('#header');
 window.addEventListener('load', function () {
     header.innerHTML = `
     <div class="center_logo">
-            <img src="Photos/Logos/Bonafide Brokerage Logo Light Grey.png" alt="Bonafide Brokerage" class="logo">
+            <img src="Photos/Logos/Bonafide Brokerage Logo Steel Blue.png" alt="Bonafide Brokerage" class="logo">
         </div>
 
         <ul class="menu_bar">

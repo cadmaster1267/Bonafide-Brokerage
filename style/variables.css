@@ -1,7 +1,7 @@
 :root {
-    --body-bg-color: rgb(255, 255, 255);
-    --orig-brown: #71c9ff;
-    --menu-bar: #00446e;
+    --body-bg-color: rgb(35, 43, 61);
+    --orig-brown: rgb(253, 249, 241);
+    --menu-bar: rgb(224, 224, 224);
     --logo-width: 40vw;
     --top-pic-height: 90vw;
 

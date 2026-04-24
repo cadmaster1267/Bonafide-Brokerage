@@ -29,7 +29,7 @@ header {
 
 
 .center_logo {
-    text-align: left;
+    text-align: center;
     margin: 0 5vw 0 6vw;
 }
 
@@ -57,7 +57,7 @@ header {
 
 .menu_text {
     display: block;
-    color: rgb(224, 224, 224);
+    color: rgb(31, 31, 31);
     text-align: center;
     font-size: var(--header-text-size);
     padding: var(--header-height) var(--header-spacing);
@@ -75,8 +75,8 @@ header {
 }
 
 .top_pic {
-    height: var(--top-pic-height);
-    width: (var(--top-pic-height)*(10831/3148));
+    height: 50vw;
+    width: 50vw;
     margin-left: -10vw;
     border-radius: 0 50% 50% 0;
 }
@@ -84,7 +84,7 @@ header {
 .top_pic_contact {
     height: 45vw;
     width: 90vw;
-    margin: 5vw 5vw 0 -5vw;
+    margin: 5vw 5vw 5vw -5vw;
 }
 
 .container {
@@ -95,10 +95,10 @@ header {
 
 .img_text {
     position: absolute;
-    top: 60%;
-    left: 30%;
+    top: 50%;
+    left: 75%;
     transform: translate(-50%, -50%);
-    font-size: var(--image-text-size);
+    font-size: 5vw;
     font-family: 'modernsanslight', serif;
     text-shadow: 0vw 0vw .35vw rgb(0, 0, 0);
 }
