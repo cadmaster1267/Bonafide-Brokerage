@@ -11,6 +11,7 @@ window.addEventListener('load', function () {
             <li class="li_menu"><a href="listings.html" class="menu_text">Listings</a></li>
             <!-- <li class="li_menu"><a href="listings.html" class="menu_text">Cus</a></li>
             <li class="li_menu"><a href="remodel_repair.html" class="menu_text">Remodel & Repair</a></li>
+            
             -->
             <li class="li_menu"><a href="contact.html" class="menu_text">Contact</a></li>
 
