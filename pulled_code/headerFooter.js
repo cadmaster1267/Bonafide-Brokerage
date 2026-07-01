@@ -2,8 +2,11 @@ const header = document.querySelector('#header');
 
 window.addEventListener('load', function () {
     header.innerHTML = `
-    <div class="center_logo">
+        <div class="center_logo">
+            <a href="https://www.facebook.com/profile/php?id=61591720341549"><img src="Photos/icons/facebook_icon.png" alt="Facebook" class="social_media_icons"></a>
             <img src="Photos/Logos/Bonafide Brokerage Logo Steel Blue.png" alt="Bonafide Brokerage" class="logo">
+            <a href="https://www.instagram.com/bonafide.brokerage?igsh=MXg0bHE2cnhpb3ZmOq=="><img src="Photos/icons/instagram_icon.png" alt="Instagram" class="social_media_icons"></a>
+
         </div>
 
         <ul class="menu_bar">

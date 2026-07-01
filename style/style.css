@@ -178,3 +178,11 @@ footer {
 .phone_spacing_bottom {
     margin: 0 0 2vw 0;
 }
+
+.social_media_icons {
+    height: auto;
+    width: 3vw;
+    margin: 4vw;
+
+
+}
